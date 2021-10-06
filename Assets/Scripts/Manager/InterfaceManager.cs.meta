@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1d290589b70914159bb117de19f70977
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - joinPlayerOne: {fileID: 3357751544217859104, guid: a92d9e39ae9d1af40a720bf0143e5f72, type: 3}
+  - joinPlayerTwo: {fileID: 6242580002758130254, guid: 4325561383a369a4d991ffaea09d90d7, type: 3}
+  - playerInputManager: {fileID: 713795543577784083, guid: 7039871d48546a0478741b06b80d6504, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
